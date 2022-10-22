@@ -1,6 +1,10 @@
 
 > Open this page at [https://reddog-tut-by.github.io/minecraft-education-test/](https://reddog-tut-by.github.io/minecraft-education-test/)
 
+## Tutorial Links
+
+[tutorial](/minecraft-education-test/tutorial)
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
