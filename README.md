@@ -4,6 +4,7 @@
 ## Tutorial Links
 
 [tutorial](/minecraft-education-test/tutorial)
+[project](https://minecraft.makecode.com/#tutorial:github:reddog-tut-by/minecraft-education-test/tutorial)
 
 ## Use as Extension
 
