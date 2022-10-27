@@ -2,7 +2,8 @@
 ### @codeStop players set @s makecode 1
 
 ### @hideIteration true 
-### @explicitHints 0
+### @flyoutOnly 1
+### @explicitHints 1
 
 # Bamboo Border
 
